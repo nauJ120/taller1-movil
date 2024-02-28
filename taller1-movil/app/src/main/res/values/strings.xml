@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Countries</string>
-    <string name="snackbar_dismiss_label">Dismiss</string>
-    <string name="countries">countries</string>
-    <string name="phone_fab_description">Make a phone call</string>
-    <string name="no_name_found">No name found</string>
-    <string name="no_alpha_code_found">No alpha code found</string>
-</resources>
